@@ -1,6 +1,10 @@
 public class AddTwoNumbers {
     public static void main(String[] args) {
         int num1 = 5;
+ another_branch
+     
+	System.out.println( num1);
+
         int num2 = 7;
 
         int sum = num1 + num2;
@@ -8,5 +12,6 @@ public class AddTwoNumbers {
 
         System.out.println("The sum is: " + sum);
         System.out.println("the product of num3 is: "+ num2);
+ main
     }
 }
